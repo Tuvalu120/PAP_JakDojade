@@ -3,13 +3,11 @@
 ## "PA jak Podjadę"
 
 > ### Skład zespołu:
-> Bartosz Han 318658
+> Bartosz Han
 >
-> Mykhailo Marfenko 323558
+> Mykhailo Marfenko
 >
-> Igor Matynia 318693
-
->Prowadzący zespołu: Michał Chwesiuk
+> Igor Matynia
 
 ## Temat i opis projektu
 Celem naszego projektu jest stworzenie aplikacji, która ma pomóc użytkownikowi w planowaniu swoich podróży komunikacją miejską w aglomeracji warszawskiej. W szczególności, nasza aplikacja ma umożliwić podróżnemu:
